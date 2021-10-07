@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MySelectionWidget</string>
+
+    <string-array name="Provinsi">
+        <item>Jawa Timur</item>
+        <item>Jawa Tengah</item>
+        <item>DI Yogyakarta</item>
+        <item>Jawa Barat</item>
+        <item>DKI Jakarta</item>
+        <item>Banten</item>
+    </string-array>
+
+    <string-array name="data_nama">
+        <item>C</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Objective C</item>
+        <item>PHP</item>
+        <item>Phyton</item>
+        <item>Ruby</item>
+        <item>Scala</item>
+        <item>Swift</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Sampai dengan saat ini bahasa C masih menjadi primadona beberapa orang untuk mengembangkan website atau aplikasi lainnya. Persentase pencarian bahasa C pada Google sebesar 5.91%</item>
+        <item>C# dengan popularitas pencarian sebesar 7.28%. C# atau dibaca C Sharp menggabungkan prinsip C dan C++ dan dikembangkan oleh Miscrosoft</item>
+        <item>Java merupakan bahasa pemrograman website yang populer. Persentase pencarian sebesar 19.03% dari total pencarian yang dilakukan pada Google</item>
+        <item>Javascript menempati urutan ketiga dengan persentase pencarian 8.2%. Fungsi Javascript termasuk istimewa menurut saya, karena mampu mengembangkan website yang menarik dan interaktif</item>
+        <item>Objective – C merupakan bahasa pemrograman yang dikembangkan pada era 1983, oleh Brad Cox dan Tom Love. Karena berorientasi pada objek, Objective-C terkadang dipakai untuk membuat website. Meskipun tidak banyak yang menggunakannya dan hanya berkisar antara 2.47% pada popularitas pencarian</item>
+        <item>Popularitas PHP sebagai bahasa pemrograman untuk website sebesar 6.09% pada pencarian di Google Search dan lebih dari 10 juta website di dunia sudah menggunakan bahasa ini</item>
+        <item>Popularitas Python sebesar 29.72% dari total responden berdasarkan pencarian yang dilakukan pada Google Search</item>
+        <item>Ruby mempunyai struktur sintaks yang sangat sederhana sehingga banyak pengembang website menggunakan bahasa ini. Komunitas yang berkembang dengan dukungan teknologi dan dependency pihak ketiga yang lengkap menjadi faktor lain yang membuat ruby cukup populer. Persentase pencarian pada bahasa ini sekitar 1.7 %, tidak terlalu banyak, namun cukup membuat Ruby masuk ke daftar bahasa komputer yang banyak diminati</item>
+        <item>Scala semakin berkembang seiring dengan perkembangan teknologi informasi seperti terbentuknya Apache Spark. Apache Spark dibuat dengan Scala yang dijadikan sebagai aplikasi untuk komputasi data berbasis klaster. Perusahaan besar seperti Twitter, LinkedIn, dan Netflix menjadi beberapa perusahaan besar yang sudah menggunakan Scala</item>
+        <item>Saat WWDC tahun 2014, bahasa Swift dikenalkan dan menjadi salah satu bahasa pemrograman yang populer di dunia. Tidak hanya itu, berdasarkan survei dari StackOverflow, Swift menjadi bahasa komputer paling favorite kedua dan menjadi bahasa komputer paling populer nomer tiga saat itu</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/c</item>
+        <item>@drawable/c_sharp</item>
+        <item>@drawable/java</item>
+        <item>@drawable/javascript</item>
+        <item>@drawable/obj_c</item>
+        <item>@drawable/php</item>
+        <item>@drawable/phyton</item>
+        <item>@drawable/ruby</item>
+        <item>@drawable/scala</item>
+        <item>@drawable/swift</item>
+    </string-array>
+</resources>
